@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1738303357 source:c:\users\pavli\onedrive\Документи\github\zadanie-programistyczne-22\main.cpp
+	<iostream>
+	<locale>
+	<fstream>
+	<ctime>
+
