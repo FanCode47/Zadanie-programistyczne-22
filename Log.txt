@@ -1,0 +1,63 @@
+
+Fri Jan 31 07:02:38 2025
+
+Wejście:
+[ 0 1 0 1 ]
+[ 1 1 1 0 ]
+[ 0 1 0 1 ]
+[ 0 1 0 1 ]
+Wyjście: 0
+Wyjście: 0
+Wyjście: 0
+
+Fri Jan 31 07:02:55 2025
+
+Wejście:
+[ 0 1 0 0 ]
+[ 1 1 1 0 ]
+[ 0 1 0 0 ]
+[ 0 0 0 0 ]
+Wyjście: 1
+Wyjście: 1
+Wyjście: 1
+
+Fri Jan 31 07:05:40 2025
+
+Wejście:
+[ 0 1 0 ]
+[ 1 0 1 ]
+[ 0 1 0 ]
+Wyjście: 0
+Wyjście: 0
+Wyjście: 0
+Wejście:
+[ 0 1 0 ]
+[ 1 1 1 ]
+[ 0 1 0 ]
+Wyjście: 1
+Wyjście: 1
+Wyjście: 1
+Wejście:
+[ 0 1 0 ]
+[ 1 1 1 ]
+[ 0 1 1 ]
+Wyjście: 0
+Wyjście: 0
+Wyjście: 0
+Wejście:
+[ 0 1 0 0 ]
+[ 1 1 1 0 ]
+[ 0 1 0 0 ]
+[ 0 0 0 0 ]
+Wyjście: 1
+Wyjście: 1
+Wyjście: 1
+Wejście:
+[ 0 1 0 0 ]
+[ 1 1 1 0 ]
+[ 0 1 0 0 ]
+[ 0 1 0 0 ]
+Wyjście: 0
+Wyjście: 0
+Wyjście: 0
+Aby wykryć kształt plusa, liczba wierszy i kolumn musi wynosić co najmniej 3!
