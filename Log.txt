@@ -1,0 +1,13 @@
+
+Fri Jan 31 07:14:45 2025
+
+Liczba elementów w tablicy:10000
+
+1 algorytm
+Czas wykonania: 0.0577516 ms
+
+2 algorytm
+Czas wykonania: 0.0611439 ms
+
+3 algorytm
+Czas wykonania: 0.0408948 ms
